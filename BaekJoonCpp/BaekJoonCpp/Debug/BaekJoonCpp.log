@@ -1,0 +1,6 @@
+﻿  BJ2493_탑.cpp
+c:\users\user\documents\baekjooncpp\baekjooncpp\baekjooncpp\bj2493_탑.cpp(16): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+c:\users\user\documents\baekjooncpp\baekjooncpp\baekjooncpp\bj2493_탑.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\documents\baekjooncpp\baekjooncpp\baekjooncpp\bj2493_탑.cpp(48): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\user\documents\baekjooncpp\baekjooncpp\baekjooncpp\bj2493_탑.cpp(48): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  BaekJoonCpp.vcxproj -> C:\Users\User\Documents\BaekJoonCpp\BaekJoonCpp\Debug\BaekJoonCpp.exe
